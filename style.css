@@ -1,0 +1,115 @@
+body {
+    text-align: center;
+    z-index: 5;
+    background: linear-gradient(#0020ff 25%, #009dff 100%);
+    background-repeat: no-repeat;
+    display: table-cell;
+}
+
+#origamiicon {
+    width: 100px;
+    border: 3px;
+    border-style: solid;
+    border-color: #1A237E;
+    border-radius: 35%;
+    padding: 5px;
+    background-color: #0288D1;
+}
+
+h1 {
+    font-family: fantasy;
+    font-weight: 100;
+    font-size: 35px;
+}
+
+h2 {
+    font-family: Monospace;
+    font-weight: bold;
+    font-size: 40px;
+    text-shadow: 1.5px 1.5px #001eff;
+}
+
+hr {
+    background-color: black;
+    border-color: black;
+    height: 3px
+}
+
+hr {
+    width: 500px;
+}
+
+p {
+    font-size: 20px;
+    font-family: cursive;
+}
+
+.menu {
+    list-style: none;
+    font-family: monospace;
+    float: right;
+    top: 0px;
+    margin-right: 5px;
+    margin-left: -60px;
+    cursor: pointer;
+    z-index: 10
+}
+
+.links {
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    color: #34eb89;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+.links:hover {
+    color: #34eb89;
+    background-color: greenyellow;
+}
+
+#mfh {
+    padding-top: 20px;
+}
+
+#jeremyprofile {
+    width: 150px;
+    height: 150px;
+    border-radius: 50px;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+}
+
+.profile {
+    display: contents;
+    justify-content: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.origami {
+    margin-left: 315px;
+}
+
+.jeremy {
+    margin-left: 20px;
+}
+
+#space {
+    width: 200px;
+}
+
+a {
+    color: black;
+}
+
+#label {
+    margin-left: 300px;
+}
+
+#paper {
+    font-family: 'Big Shoulders Stencil Display', cursive;
+}
